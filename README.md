@@ -69,7 +69,9 @@
 ---
 
 ## Screenshots
+**Script Screenshot**
 ![Script](https://github.com/CursedPereira/BenchParse/blob/main/BenchParse.png)
+**Output**
 ![Output](https://github.com/CursedPereira/BenchParse/blob/main/Output.png)
 
 
